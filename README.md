@@ -5,7 +5,6 @@
 * 💻 I like working with: Python, JavaScript
 * 📚 Currently learning: C++
 * 🧠 Interested in: backend development and systems programming
-* ⚙️ Always building and improving projects
 
 ## 🛠️ Tech Stack
 

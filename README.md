@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 
 * Languages: Python, JavaScript, C++ (learning)
-* Tools: VSCode, PyCharm
+* Tools: VSCode, PyCharm, CLion
 * Other: Git
 
 ## 📂 Projects
